@@ -15,5 +15,111 @@
       "id": "1tkVhmVY46c"
     }
   ],
+  "imc": [
+    {
+      "nome": "Eduardo",
+      "altura": 1.67,
+      "peso": 85,
+      "IMC": 30.477966223242138,
+      "textoSituacao": "Obesidade Grau 1",
+      "id": "jP2PEI0nenQ"
+    },
+    {
+      "nome": "Eduardo",
+      "altura": 1.67,
+      "peso": 85,
+      "IMC": 30.477966223242138,
+      "textoSituacao": "Obesidade Grau 1",
+      "id": "QlhxwsrJchk"
+    },
+    {
+      "nome": "Eduardo",
+      "altura": 1.67,
+      "peso": 85,
+      "IMC": 30.477966223242138,
+      "textoSituacao": "Obesidade Grau 1",
+      "id": "31oGx3AanjA"
+    },
+    {
+      "nome": "Eduardo",
+      "altura": 1.67,
+      "peso": 85,
+      "IMC": 30.477966223242138,
+      "textoSituacao": "Obesidade Grau 1",
+      "id": "4_vEs5GvHPU"
+    },
+    {
+      "nome": "kaua",
+      "altura": 178,
+      "peso": 77,
+      "IMC": 0.0024302487059714682,
+      "textoSituacao": "Magreza grave",
+      "id": "1pzpsTQxA5w"
+    },
+    {
+      "nome": "kaua",
+      "altura": 1.78,
+      "peso": 77,
+      "IMC": 24.302487059714682,
+      "textoSituacao": "Saudavel",
+      "id": "h69H9lkCwMY"
+    },
+    {
+      "nome": "bia P",
+      "altura": 1.6,
+      "peso": 60,
+      "IMC": 23.437499999999996,
+      "textoSituacao": "Saudavel",
+      "id": "qk-uZpjNaDM"
+    },
+    {
+      "nome": "rafaela",
+      "altura": 1.65,
+      "peso": 60,
+      "IMC": 22.03856749311295,
+      "textoSituacao": "Saudavel",
+      "id": "kSVVUVyOdZ8"
+    },
+    {
+      "nome": "rawany",
+      "altura": 1.69,
+      "peso": 50,
+      "IMC": 17.506389832288786,
+      "textoSituacao": "Magreza leve",
+      "id": "eY1bfWQGLoE"
+    },
+    {
+      "nome": "Barney",
+      "altura": 1.69,
+      "peso": 50,
+      "IMC": 17.506389832288786,
+      "textoSituacao": "Magreza leve",
+      "id": "Nv8j6gnkdds"
+    },
+    {
+      "nome": "Barney",
+      "altura": 1.69,
+      "peso": 50,
+      "IMC": 17.506389832288786,
+      "textoSituacao": "Magreza leve",
+      "id": "vNzhKcMfhpA"
+    },
+    {
+      "nome": "Barney",
+      "altura": 1.69,
+      "peso": 50,
+      "IMC": 17.506389832288786,
+      "textoSituacao": "Magreza leve",
+      "id": "HIHLPXTBm3M"
+    },
+    {
+      "nome": "BIbi",
+      "altura": 1.67,
+      "peso": 85,
+      "IMC": 30.477966223242138,
+      "textoSituacao": "Obesidade Grau 1",
+      "id": "YMLT56-h1go"
+    }
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }
