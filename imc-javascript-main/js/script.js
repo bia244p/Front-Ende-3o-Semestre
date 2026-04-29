@@ -34,18 +34,7 @@ function calcular(params) {
     const retorno = cadastrarNaAPI(objIMC);
 
     if (retorno) {
-        const tabela = document.getElementById("cadastro");
-
-
-        //toFixed mostra só duas casas depois da virgula
-        listar.innerHTML +=
-            `<tr>
-        <td>${nome}</td>
-        <td>${altura}</td>
-        <td>${peso}</td>
-        <td>${IMC.toFixed(2)}</td> 
-        <td>${textoSituacao}</td>
-        </tr>`;
+       buscarIMCs();
 
         //limpar os campos do formulário
 
@@ -124,6 +113,11 @@ async function buscarIMCs() {
 
 
         await console.log(dadosRetornados); //dados do cadastro
+
+
+        dadosRetornados.sort((a, b)  => {
+            return a.nome.localeCompare(b.nome);
+        })
 
 
         const tabela = document.getElementById("cadastro");
