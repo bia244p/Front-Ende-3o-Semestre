@@ -121,5 +121,28 @@
       "id": "YMLT56-h1go"
     }
   ],
+  "calculo": [
+    {
+      "n1": 5,
+      "n2": 5,
+      "op": "soma",
+      "resultado": "10.00",
+      "id": "qtSXUI-KvHk"
+    },
+    {
+      "n1": 6,
+      "n2": 6,
+      "op": "soma",
+      "resultado": "12.00",
+      "id": "JSvXhZBITqk"
+    },
+    {
+      "n1": 6,
+      "n2": 6,
+      "op": "soma",
+      "resultado": "12.00",
+      "id": "RbVMrVrbjm4"
+    }
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }
