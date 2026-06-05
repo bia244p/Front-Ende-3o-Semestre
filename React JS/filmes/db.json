@@ -1,0 +1,10 @@
+{
+  "Genero": [
+    {
+      "nome": "rafa feia ",
+      "id": "eL0VQhFqpLo"
+    }
+  ],
+  "Filme": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}

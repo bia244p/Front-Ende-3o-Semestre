@@ -1,7 +1,7 @@
 import {BrowserRouter, Route, Routes} from "react-router-dom"
-import CadastroFilme from "../pages/CadastroFilme/CadastroFilme"
 import CadastroGenero from "../pages/cadastroGenero/CadastroGenero"
 import Login from "../pages/login/login"
+import CadastroFilme from "../pages/cadastroFilme/CadastroFilme"
 
 const Rotas = () => {
     return(
