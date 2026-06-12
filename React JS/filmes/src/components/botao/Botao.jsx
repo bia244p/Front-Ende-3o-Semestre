@@ -5,11 +5,16 @@ const Botao = (props) => {
 
         <button 
         className="botao" 
-        type={props.btnEditar ? "button" : "submit"}
+        type={ (props.btnEditar || props.btnLogin )  ? "button" : "submit"}
             onClick={()=>{
                 if(props.btnEditar){
                     props.cancelaEdicao()
+                }else if (props.btnLogin) {
+                    props.fnLogin()
+                }else{
+                    null
                 }
+
             }}
         >
             
